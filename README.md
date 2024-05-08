@@ -27,8 +27,8 @@ This commands includes
 <BR>
 
 
-DEVELOPED BY:N.NAVYA SREE        
-REG.NO:212223040138          
+DEVELOPED BY:IYYANAR S        
+REG.NO:212222240036         
 
 ## PROGRAM
 ## PING COMMAND
